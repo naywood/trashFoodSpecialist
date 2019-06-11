@@ -9,7 +9,6 @@ if (process.env.JAWSDB_URL) {
         host: "localhost",
         database: "burgers_db",
         user: "root",
-        port: 3306,
         password: "124Intaglio"
     });
 }
