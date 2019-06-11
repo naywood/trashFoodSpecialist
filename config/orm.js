@@ -7,4 +7,4 @@ var orm = {
             cb(result)
         })
     }
-}
+} 
